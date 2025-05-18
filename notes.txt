@@ -1,0 +1,4 @@
+
+configure user on github
+git config --global user.email "wernerjbrown@gmail.com"
+git config --global user.name "WernerBrown"
